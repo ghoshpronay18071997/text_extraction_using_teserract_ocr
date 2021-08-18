@@ -1,7 +1,7 @@
 <img src = "https://github.com/ghoshpronay18071997/text_extraction_using_teserract_ocr/blob/main/Tesseract_OCR_logo_(Google).png" width="200" height="80">
 
 # Overview
-**Image-Text Extraction** is a tool for whichh is used for extraction of text from Image.
+**Image-Text Extraction** is a tool for which is used for extraction of text from Image.
 
 # Table of Contents
 1. [Installing Teserract ](#Section1)<br>
