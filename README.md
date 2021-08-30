@@ -5,7 +5,7 @@
 
 # Table of Contents
 1. [Installing Teserract ](#Section1)<br>
-2. [Setting up Teserract into local system](#Section2)<br>
+2. [Calling Teserract into environment](#Section2)<br>
 4. [Execution](#Section3)<br>
 5. [Automation](#Section4)</br>
 
@@ -21,7 +21,7 @@ install.packages("tesseract")
 ```
 
 <a name=Section2></a>
-# 2. Setting up Teserract into local system
+# 2. Calling Teserract into environment
 
 - After we have successfully installed the package we'll have to call it using the following command
 ```
